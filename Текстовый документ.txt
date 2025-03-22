@@ -1,1 +1,1 @@
-PRINT(БУГАГА)
+PRINT(A)
